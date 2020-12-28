@@ -1,32 +1,11 @@
 ---
-title: A simple post
-date: 2020-06-08
-tags:
-- demo-content
-- simple-post
-- blog
+title: Observer
+date: 2020-06-07
+tags: []
 
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is
-all set in the “Body” field as markdown and Eleventy transforms it into a proper
-HTML post. You can also edit the markdown file directly if you prefer not to use
-the CMS.
+Observer е киберпънк/хорър/пъзел игра, вдъхновена от Blade Runner, Матрицата и Ghost in the Shell. 
 
-How about a `<blockquote>`?
+Основни теми: Близкото бъдеще и дигитализацията на живота. Отношения между баща и син. Властта на големите корпорации.
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
-
-A list of stuff:
-
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
-
-How about an ordered list of stuff:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+Есенция: Играта успява да те привлече със страхотна атмосфера, наподобяваща много Blade Runner, поне в началото - нощният проливен дъжд, сградите, наситени с неонови реклами и дигитализацията на всичко около нас. Макар и в процеса на игра сетингът да се променя, играта продължава да залага най-вече на визуални и музикални влияния. Атмосферата, която създава е нещото, което оставя най-силни впечатления.
